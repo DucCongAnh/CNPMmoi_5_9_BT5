@@ -1,11 +1,5 @@
-# 🎯 Bài Tập 05 - Tìm Kiếm Sản Phẩm với Fuzzy Search (Elasticsearch)
+# 🎯 Bài Tập 05 - Phân trang sản phẩm
 
-## 📋 Tổng Quan
-Dự án triển khai chức năng **tìm kiếm sản phẩm với Fuzzy Search (Elasticsearch)** và **lọc với nhiều điều kiện** bao gồm:
-- ✅ **Fuzzy Search** - Tìm kiếm mờ (có thể tìm được kể cả khi gõ sai chính tả)
-- ✅ **Multi-condition Filtering** - Lọc theo danh mục, giá, đánh giá, khuyến mãi, tồn kho
-- ✅ **Auto-complete Suggestions** - Gợi ý tìm kiếm tự động
-- ✅ **Fallback Mechanism** - Tự động chuyển sang MongoDB khi Elasticsearch không khả dụng
 
 ## 🚀 Cách Chạy Dự Án
 
